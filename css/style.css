@@ -522,10 +522,12 @@ footer {
 @media (max-width: 365px) {
     .home-img img {
         width: 90vw;
+        border-radius: 50%;
     }
 
     .about-img img {
         width: 90vw;
+        border-radius: 25%;
     }
 
     .footer {
