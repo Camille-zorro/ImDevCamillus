@@ -507,7 +507,7 @@ footer {
     }
 
      .home-img img {
-        width: 90vw;
+        width: 85vw;
         border-radius: 50%;
     }
 
@@ -532,7 +532,7 @@ footer {
 
 @media (max-width: 365px) {
     .home-img img {
-        width: 90vw;
+        width: 85vw;
         border-radius: 50%;
     }
 
