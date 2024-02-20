@@ -61,3 +61,12 @@ const typed = new Typed('.multiple-text', {
     backDelay: 1000,
     loop: true
 });
+
+
+/*==================== Translate Page ====================*/
+function googleTranslateElementInit() {  
+    new google.translate.TranslateElement(  
+        {pageLanguage: 'en'},  
+            'google_translate_element'  
+);  
+        
